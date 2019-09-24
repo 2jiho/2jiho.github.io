@@ -1,3 +1,3 @@
-# 2jiho.github.io
+# Jiho Lee
 
 안녕하세요
