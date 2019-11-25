@@ -1,6 +1,6 @@
 ---
-title: "post"
-permalink: /categories/post/
+title: "posts"
+permalink: /categories/posts/
 layout: category
 author_profile: true
 taxonomy: post
