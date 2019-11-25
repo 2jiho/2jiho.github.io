@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "블로그"
-    url: https://https://2jiho.github.io/
+    url: https://2jiho.github.io/
   - title: "포스트"
-    url: /Post/
+    url: /posts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
