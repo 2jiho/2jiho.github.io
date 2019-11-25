@@ -3,7 +3,7 @@ main:
   - title: "블로그"
     url: https://2jiho.github.io/
   - title: "포스트"
-    url: /posts/
+    url: /categories/posts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
