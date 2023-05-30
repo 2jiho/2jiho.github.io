@@ -1,2 +1,0 @@
-# 2jiho.com
-hello
