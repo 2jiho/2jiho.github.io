@@ -1,2 +1,2 @@
-# 2jiho.github.io
+# 2jiho.com
 hello
